@@ -1,2 +1,1 @@
-# docs-xp
-XP -  eXtreme Programming (Software Engineering)
+# XP - eXtreme Programming (Software Engineering)
